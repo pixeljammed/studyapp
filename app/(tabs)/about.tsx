@@ -17,5 +17,7 @@ const styles = StyleSheet.create({
   },
   text: {
     color: '#fff',
+    fontSize: 24,
+    fontFamily: 'Futura',
   },
 });
