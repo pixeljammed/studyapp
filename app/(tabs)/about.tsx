@@ -151,12 +151,12 @@ export default function App() {
         <TextInput
           style={styles.input}
           keyboardType="numeric"
-          placeholder="time in minutes (0-1440)"
+          placeholder="Enter time in minutes (0-1440)"
           onChangeText={(text) => setTimeInput(text)}
           onSubmitEditing={Keyboard.dismiss}
           value={timeInput}
         />
-        <Pressable onPress={() => setTimeInput("0")}>
+        <Pressable onPress={() => setTimeInput("0r")}>
           <Text style={styles.mono}>Clear</Text>
         </Pressable>
       </View>
