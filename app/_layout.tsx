@@ -31,8 +31,7 @@ export default function RootLayout() {
     'BMRegular': require('@/assets/fonts/BuilderMonoRegular.otf'),
     'BMBold': require('@/assets/fonts/BuilderMonoBold.otf'),
 
-
-
+    
     // Fallbacks
     'Sans': require('@/assets/fonts/SourceSans.ttf'),
     'Extended': require('@/assets/fonts/Montserrat.ttf'),
