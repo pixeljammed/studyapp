@@ -22,8 +22,8 @@ const CLOUD_SCALE = 2.5; // Base scaling factor for all clouds
 const MIN_SPEED = 100000; // Minimum duration for a cloud crossing (closer clouds)
 const MAX_SPEED = 300000; // Maximum duration for a cloud crossing (farther clouds)
 const SPAWN_RATE = 1000; // Spawn interval in milliseconds
-const MIN_OPACITY = 0.1; // Minimum cloud transparency
-const MAX_OPACITY = 0.7; // Maximum cloud transparency
+const MIN_OPACITY = 0.05; // Minimum cloud transparency
+const MAX_OPACITY = 0.15; // Maximum cloud transparency
 const TINT_COLORS = [null, '#ffffff', '#ddddff', '#ffeeee']; // Optional tints for clouds
 
 const Weather = () => {
