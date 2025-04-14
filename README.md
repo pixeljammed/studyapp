@@ -1,4 +1,5 @@
 > I copy and pasted everything below from an Obsidian document so it looks poorly formatted.
+> Also this project is old and was nowhere near my final submission.
 
 ## Contents
 [[#**1.1 Project Statement**]]
