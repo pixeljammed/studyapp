@@ -1,3 +1,5 @@
+> I copy and pasted everything below from an Obsidian document so it looks poorly formatted.
+
 ## Contents
 [[#**1.1 Project Statement**]]
 [[#**1.2 What is the study app?**]]
